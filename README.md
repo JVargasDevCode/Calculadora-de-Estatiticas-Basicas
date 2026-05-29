@@ -38,3 +38,4 @@ Na aplicação recebe números e Strings misturados, separa os dados automaticam
  ┣ 📄 style.css
  ┣ 📄 pscripts.js
  ┗ 📄 README.md
+```
