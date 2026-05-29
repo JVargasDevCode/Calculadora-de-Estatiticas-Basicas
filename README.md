@@ -1,7 +1,7 @@
 # Calculadora-de-Estatiticas-Basicas
 Este Projeto foi deselvovido na Materia de Front-end, com afins acadêmico para reforça o estudo de JavaScript, HTML e CSS.
 
-Na aplicação recebe números e Strings MIsturados, separa os dados automaticamente e realizar estaticas e textuais
+Na aplicação recebe números e Strings Misturados, separa os dados automaticamente e realizar estaticas e textuais
 
 ---
 
