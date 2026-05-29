@@ -1,4 +1,4 @@
-# Calculadora-de-Estatiticas-Basicas
+# Calculadora-de-Estatisticas-Basicas
 Este Projeto foi deselvovido na materia de Front-end, com afins acadêmico para reforça o estudo de JavaScript, HTML e CSS.
 
 Na aplicação recebe números e Strings misturados, separa os dados automaticamente e realiza análise estatísticas e textuais.
